@@ -1,0 +1,57 @@
+<!--list of Student Object-->
+<Students>
+<!--Object-->
+<Student>
+  <!--name is String-->
+  <Name>Chandrasheker</Name>
+  <DOB>01-01-1990</DOB>
+  <Age>23</Age>
+  <!--List of objects-->
+  <Addresses>
+       <!--Object-->
+      <Address Type="PREM">
+          <DoorNo>4-3</DoorNo>
+          <Street>BNREDDy</Street>
+          <Pin>34343</Pin>
+      </Address>
+      <Address Type="Current">
+          <DoorNo>4-3</DoorNo>
+          <Street>BNREDDy</Street>
+          <Pin>34343</Pin>
+      </Address>       
+  </Addresses>
+  <!--List of String -->
+  <Skills>
+       <Skill>Java</Skill>
+        <Skill>Devops</Skill>
+        <Skill>python</Skill>
+  </Skills>
+</Student>
+<Student>
+  <!--name is String-->
+  <Name>Chandrasheker</Name>
+  <DOB>01-01-1990</DOB>
+  <Age>23</Age>
+  <!--List of objects-->
+  <Addresses>
+       <!--Object-->
+      <Address Type="PREM">
+          <DoorNo>4-3</DoorNo>
+          <Street>BNREDDy</Street>
+          <Pin>34343</Pin>
+      </Address>
+      <Address Type="Current">
+          <DoorNo>4-3</DoorNo>
+          <Street>BNREDDy</Street>
+          <Pin>34343</Pin>
+      </Address>       
+  </Addresses>
+  <!--List of String -->
+  <Skills>
+       <Skill>Java</Skill>
+        <Skill>Devops</Skill>
+        <Skill>python</Skill>
+  </Skills>
+</Student>
+
+</Student>

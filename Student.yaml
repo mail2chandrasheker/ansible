@@ -1,0 +1,37 @@
+---
+- name: chandrasheker
+  dob: 01-01-01
+  age: 23
+  addresses:
+    - doorno: 4-2
+      street: bnreddy
+      city: hyderaba
+      pin: 343434
+      type: current
+    - doorno: 4-2
+      street: bnreddy
+      city: hyderaba
+      pin: 343434
+      current: prer
+  skills:
+    - java
+    - devops
+    - cloud
+- name: ravi
+  dob: 01-01-01
+  age: 23
+  addresses:
+    - doorno: 4-2
+      street: bnreddy
+      city: hyderaba
+      pin: 343434
+      type: current
+    - doorno: 4-2
+      street: bnreddy
+      city: hyderaba
+      pin: 343434
+      current: prer
+  skills:
+    - java
+    - devops
+    - cloud

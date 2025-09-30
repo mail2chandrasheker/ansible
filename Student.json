@@ -1,0 +1,21 @@
+{
+    "name":"chandrasheker",
+    "dob":"01-01-01",
+    "addresses":[
+        {
+            "type":"current",
+            "doorno":"1-2",
+            "street":"bnreddy",
+            "city":"hyd",
+            "pin":45555
+        },
+         {
+            "type":"perm",
+            "doorno":"1-2",
+            "street":"bnreddy",
+            "city":"hyd",
+            "pin":45555
+        }
+    ],
+    "skills":["java","devops","cloud"]
+}
